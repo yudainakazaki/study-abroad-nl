@@ -1,0 +1,20 @@
+.app-frame{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    min-height: 100%;
+}
+
+Header {
+    position: fixed;
+}
+
+.main{
+    padding-top: 110px;
+    padding-bottom: 110px;
+    margin: 5% 5%;
+}
+
+Footer {
+    position: fixed;
+}
