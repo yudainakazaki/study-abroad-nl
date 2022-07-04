@@ -1,0 +1,16 @@
+.univ-header-main {
+    display: flex;
+    flex-direction: row;
+}
+
+.univ-icon-container {
+    height: 125px;
+    width: 125px;
+}
+
+.univ-icon {
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    border-radius: inherit;
+}
